@@ -1,3 +1,1 @@
-"Shell I/O Redirections and filters Resource"
-
-
+Shell I/O redirections
